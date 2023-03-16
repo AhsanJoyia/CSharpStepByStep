@@ -1,4 +1,4 @@
-namespace CSharpStepByStep;
+namespace CSharpStepByStep.DesignPatterns.Creational;
 
 /// <summary>
 /// Vehicle Types, I am avoiding to hardcode values
